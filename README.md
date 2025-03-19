@@ -1,6 +1,7 @@
 # Ml-Assignment-2
 
-This report presents a comprehensive analysis of the given employee dataset. The analysis is structured into several key steps, including data exploration, cleaning, statistical analysis, visualization, encoding, and feature scaling. Each step is essential for preparing the data for further insights and machine learning applications.
+The project successfully implemented a comprehensive data preprocessing pipeline that addressed key challenges in the dataset. By exploring, cleaning, analyzing, encoding, and 
+scaling the data, the project enhanced the quality and reliability of the data, making it suitable for machine learning tasks. This preprocessing pipeline ensures that the data is well-prepared for building accurate and effective machine learning models
 
 Data Exploration – Understanding the dataset by listing unique values and performing statistical analysis.
 Data Cleaning – Handling missing, inappropriate, and duplicate values, as well as detecting outliers.
